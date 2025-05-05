@@ -1,0 +1,2 @@
+Model,Encoder Parameters,Decoder Parameters,Total Parameters,Training Time (s),Inference Time (s),BLEU-1,BLEU-4,ROUGE-1,ROUGE-L
+LSTM Encoder-Decoder (No Attention),6518016,6875710,13393726,340.5187656879425,9.287228107452393,0,0,0,0
